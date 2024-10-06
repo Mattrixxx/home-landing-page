@@ -1,0 +1,17 @@
+
+<svg width="200" height="55" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: 'DM Serif Display', serif;
+      font-size: 28px;
+      fill: #292f36;
+    }
+    .subtitle {
+      font-family: 'Jost', sans-serif;
+      font-size: 10px;
+      fill: #cda274;
+    }
+  </style>
+  <text x="10" y="30" class="title">Home Modern</text>
+  <text x="10" y="45" class="subtitle">Experience Modern Living</text>
+</svg>
